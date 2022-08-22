@@ -8,4 +8,3 @@ Hello, I’m @Bozhan Bozhanov
 DareBDeviL/DareBDeviL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Programming Basics - September 2021 - Certificate.pdf](https://github.com/DareBDeviL/DareBDeviL/files/9392670/Programming.Basics.-.September.2021.-.Certificate.pdf)
